@@ -1,0 +1,25 @@
+body, html {
+	height: 100%;
+}
+
+div.header {
+	text-align: center;
+	color: forestgreen;
+}
+
+div.content {
+	background-image: url('http://zibeb.com/wp-content/uploads/2014/05/tea.jpg');
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+}
+
+div.content-tea-img {
+	background-image: url('../img/tea-table.PNG');
+	width: 100%;
+	height: 100%;
+	padding-bottom: 50%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
