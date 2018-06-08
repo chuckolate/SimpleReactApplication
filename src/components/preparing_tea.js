@@ -34,9 +34,11 @@ Good tea is tea the way you like it.
 We have tested every single variety of tea to arrive at our recommendations for tea leaf quantity, brewing time and water temperature. These recommendations accompany each tea we sell and will assist you in preparing a cup of outstanding quality.
 But just as the growing and production of tea can be both art and science, so is the creation of each cup. If our suggestions do not yield your idea of perfection, then allow your curiosities to map out your very own course. In the end, the only rule is enjoyment!
 Inside, you will learn about the “Three Ts” – Time, Temperature and the amount of Tea – that yield the perfect cup. Naturally, it is also important that you use high-quality, filtered or bottled water when making tea. Even the best tea cannot overcome poor water quality.</p>
+				<a href="http://us.teagschwendner.com/US/en/Preparing_Tea.TG?activeID=1681&parent_id=" target="_blank" rel="noopener noreferrer">Original source here</a>
 				</div>
 				<div className="content-tea-table">
 					<h2>Tea Instructions and General Guidelines</h2>
+					<a href="https://www.itoen.com/all-things-tea/preparing-tea" target="_blank" rel="noopener noreferrer"><i>Image from ItoEn Website</i></a>
 					<div className="content-tea-img" />
 				</div>
 			</div>

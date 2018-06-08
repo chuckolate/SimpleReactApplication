@@ -25,6 +25,7 @@ class TeaDisplay extends Component {
         <h3>Displaying information for {this.state.teaName}:</h3>
         <img src={this.state.teaImg} width="75%" height="400px" background-size="cover" alt={this.state.teaName} />
         <p>{this.state.teaDesc}:</p>
+        <a href="http://theteaspot.com/about-tea.html" target="_blank" rel="noopener noreferrer">A little more about these teas</a>
       </div>
     );
   }
