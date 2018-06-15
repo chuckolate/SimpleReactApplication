@@ -1,5 +1,7 @@
 ﻿Simple React Tea Application
 
+This application demonstrates a simple illustration of using React components and router to display information about different types of tea.
+
 Follow the steps below to run the application:
 
 1. clone this repository: 'git clone https://github.com/chuckolate/simple-react-app-tea.git'
